@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo kill $(ps aux | grep "ros" | awk '{print $2}')
+sudo kill -int $(ps aux | grep "ros" | awk '{print $2}')
 
