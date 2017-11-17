@@ -1,0 +1,8 @@
+prefix=/home/abhinavgirish/Documents/catkin_ws/install
+
+Name: RoboclubBuggy_gazebo
+Description: Description of RoboclubBuggy_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/abhinavgirish/Documents/catkin_ws/install/lib 
+Requires: 
