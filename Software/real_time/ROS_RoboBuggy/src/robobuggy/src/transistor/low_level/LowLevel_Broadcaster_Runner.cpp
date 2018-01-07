@@ -1,7 +1,5 @@
-#include "transistor/transistor_serial_messages.h"
-#include "serial/serial.h"
-
 #include "transistor/low_level/LowLevel_Broadcaster.h"
+#include "transistor/transistor_serial_messages.h"
 
 int main(int argc, char **argv) 
 {

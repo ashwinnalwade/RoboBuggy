@@ -1,6 +1,5 @@
 #include "transistor/low_level/LowLevel_Broadcaster.h"
 #include "transistor/transistor_serial_messages.h"
-#include "serial/serial.h"
 
 const std::string LowLevel_Broadcaster::NODE_NAME = "LowLevel_Broadcaster";
 
